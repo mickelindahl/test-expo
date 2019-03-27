@@ -1,0 +1,8 @@
+# No moduules
+node_modules
+
+# Package lock
+package-lock.json
+
+# No editor
+.idea
